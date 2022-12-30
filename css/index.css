@@ -29,13 +29,13 @@ body{
     display: flex;
 }
 .form-input{
-    padding: 6.0 rem;
+    padding: 6.0rem;
     border: none;
     flex: 1;
     border-radius: 4px;
 }
 .form button{
-    padding: 0.8 rem;
+    padding: 0.8rem;
     min-width: 70px;
     margin-left: 8px;
     background-color: #8dd0f5;
